@@ -1,5 +1,7 @@
 # Scapy #
 
+Add support for Solaris System
+
 [![Build Status](https://travis-ci.org/secdev/scapy.svg?branch=master)](https://travis-ci.org/secdev/scapy)
 
 Scapy is a powerful Python-based interactive packet manipulation
